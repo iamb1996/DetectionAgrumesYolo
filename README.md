@@ -1,4 +1,9 @@
-# DetectionAgrumesYolo
+# Comptage d'agrumes
 
-Afin d'automatiser le comptage d'agrumes sur le parcelles agricoles dans le contexte de l'agriculture automatisé et de precision.
-J'ai amelioré la detection d'agrumes basé sur des images RGB.
+Modéle spécifiquement conçu pour localiser et identifier automatiquement les agrumes dans des images. Il utilise des techniques avancées de vision par ordinateur, telles que les réseaux de neurones convolutifs (CNN) et les architectures de détection d'objets, pour fournir des résultats précis et fiables. Dans ce repertoire je fournis un exemple d'images ou le modéle opére.
+
+Pour objectif de :
+
+- Automatisation du comptage manuel des agrumes
+- Comptage des agrumes
+- Estimation de récolte
